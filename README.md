@@ -7,7 +7,7 @@ A mouse jiggler, auto clicker/jumper/walker
 
 I've made mouse jigglers, auto clickers, jumpers and walkers for my son and myself but I wanted a device that did all of them in one so here we are. A RP2040 in an altoids can running circuit python. 
 
-![Picture of altoids can w/ small display and rotary knob](/assets/preview.JPEG)
+<img src="https://raw.githubusercontent.com/JordanMajd/Cinnamon/refs/heads/master/assets/preview.JPEG" alt="Picture of altoids can w/ small display and rotary knobt" style="width:33%; height:auto;">
 
 Dependencies: adafruit_bus_device, adafruit_display_text, adafruit_hid, adafruit_displaio_sh1106 and cat pictures!
 
